@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá! Eu sou Micael Kaiton 
 
-<!--
-**micaelkaiton/micaelkaiton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software  
+Desenvolvedor em formação | Python | JavaScript | HTML | CSS
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou formado em Comércio Exterior e atualmente curso Engenharia de Software na Descomplica.
+
+Estou em transição e evolução profissional na área de tecnologia, desenvolvendo conhecimentos em programação, desenvolvimento de software e resolução de problemas.
+
+Tenho experiência profissional com análise de processos, compliance, legislação e melhoria contínua. Busco unir essa experiência à tecnologia para desenvolver soluções eficientes e inovadoras.
+
+## Tecnologias e ferramentas
+
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- Git
+- GitHub
+
+## Atualmente estudando
+
+- Lógica de programação
+- Algoritmos e estruturas de dados
+- Desenvolvimento de software
+- Python
+- Engenharia de Software
+
+## Objetivos
+
+- Construir projetos práticos.
+- Desenvolver meu portfólio.
+- Contribuir com projetos colaborativos.
+- Conquistar uma oportunidade de estágio ou desenvolvedor júnior.
+
+---
+
+ Brasil  
+ Sempre aprendendo e construindo algo novo!
+
+
